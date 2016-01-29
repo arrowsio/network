@@ -1,7 +1,7 @@
 package main
 import (
 	"time"
-	"github.com/arrowsio/network"
+	"github.com/pranked/network"
 	"fmt"
 )
 
